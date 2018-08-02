@@ -26,7 +26,7 @@
     [btn addTarget:self action:@selector(buttonAction) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:btn];
     
-    
+    NSLog(@"123");
     // Do any additional setup after loading the view.
 }
 
