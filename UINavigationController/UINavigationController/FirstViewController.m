@@ -27,6 +27,7 @@
     [self.view addSubview:btn];
     
     NSLog(@"123");
+    NSLog(@"111");
     // Do any additional setup after loading the view.
 }
 
