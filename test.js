@@ -48,5 +48,5 @@ DeviceUtil.openCamera = function() {
 //添加视图
 DeviceUtil.addView = function() {
     var i = 123;
-    Util.addView;
+    Util.addView();
 }
